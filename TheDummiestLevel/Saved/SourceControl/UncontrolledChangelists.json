@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wmken/Documents/Unreal Projects/ConnectedToGitKraken/DummierTestSite/TheDummiestLevel/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/wmken/Documents/Unreal Projects/ConnectedToGitKraken/DummierTestSite/TheDummiestLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/72/NCKY5BEYRWC597QG123P5F.uasset"
+			]
+		}
+	]
+}
